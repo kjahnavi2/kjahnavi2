@@ -20,7 +20,7 @@ I specialize in building scalable backend architectures, REST APIs, and data-dri
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects 
 
 ### 🔹 Social Media Platform
 **Tech:** MERN, REST APIs, JWT  
@@ -45,6 +45,8 @@ I specialize in building scalable backend architectures, REST APIs, and data-dri
 - Designed secure backend for financial data processing  
 
 ---
+
+## 🚀 Projects (Data Engineering for AI)
 
 ### 🔹 Real-Time Data Pipeline
 **Tech:** Python, Apache Kafka, Spark, SQL  
