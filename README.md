@@ -1,8 +1,8 @@
-# 👋 Hey, I'm Jahnavi Reddy
+# 👋 Hey, I'm Kamireddy Jahnavi Reddy
 
 🎓 B.Tech CSIT Student | 👩‍💻 Software Engineer (Primary) & Data Engineer (Secondary)  
 🚀 Backend Systems • Scalable Applications • Data Pipelines  
-📍 India | 📧 jahnavireddy1821@gmail.com  
+📍 Andhra Pradesh, India | 📧 jahnavireddy1821@gmail.com (Primary) | 📧 2300090020csitelge@gmail.com (Secondary)
 
 ---
 
@@ -50,7 +50,7 @@ I specialize in building scalable backend architectures, REST APIs, and data-dri
 **Tech:** Python, Apache Kafka, Spark, SQL  
 - Built streaming data pipeline processing 50,000+ records  
 - Implemented ingestion & transformation workflows  
-- Improved real-time analytics and data availability :contentReference[oaicite:0]{index=0}  
+- Improved real-time analytics and data availability
 
 ---
 
@@ -58,7 +58,7 @@ I specialize in building scalable backend architectures, REST APIs, and data-dri
 **Tech:** Python, ML, Scikit-learn, Pandas  
 - Processed 100,000+ network records for anomaly detection  
 - Built ML models to identify malicious traffic patterns  
-- Improved early detection of cyber threats :contentReference[oaicite:1]{index=1}  
+- Improved early detection of cyber threats
 
 ---
 
@@ -66,7 +66,7 @@ I specialize in building scalable backend architectures, REST APIs, and data-dri
 **Tech:** Python, Pandas, NumPy, ML  
 - Analyzed 10,000+ customer records for churn prediction  
 - Built classification models and insight dashboards  
-- Enabled data-driven decision-making for retention strategies :contentReference[oaicite:2]{index=2}  
+- Enabled data-driven decision-making for retention strategies
 
 ---
 
@@ -102,17 +102,17 @@ Git • GitHub • Docker • GitHub Actions • VS Code
 ## 📊 Experience
 **Full Stack Developer Intern — Code Alpha**  
 - Built 5+ REST APIs and 4+ full-stack modules using React & Node.js  
-- Enabled seamless data flow across application layers :contentReference[oaicite:3]{index=3}  
+- Enabled seamless data flow across application layers 
 
 **Web Developer Intern — Skill Craft Technologies**  
 - Developed responsive web interfaces and fixed 10+ UI issues  
-- Improved usability and interface stability :contentReference[oaicite:4]{index=4}  
+- Improved usability and interface stability 
 
 ---
 
 ## 🏆 Achievements
-- Top 5,000 / 100,000+ in Algo University DSA Camp :contentReference[oaicite:5]{index=5}  
-- Hackathon participant (Guidewire DevTrails, AI Hackathons) :contentReference[oaicite:6]{index=6}  
+- Top 5,000 / 100,000+ in Algo University DSA Camp 
+- Hackathon participant (Scaler School of Technologies by Meta & Hugging Face, Guidewire DevTrails, Industrial AI Hackathons)  
 - Campus Ambassador (Internshala) – Leadership & outreach  
 
 ---
