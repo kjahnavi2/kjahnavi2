@@ -46,7 +46,7 @@ I specialize in building scalable backend architectures, REST APIs, and data-dri
 
 ---
 
-## 🚀 Projects (Data Engineering for AI)
+##Data Engineering for AI:
 
 ### 🔹 Real-Time Data Pipeline
 **Tech:** Python, Apache Kafka, Spark, SQL  
