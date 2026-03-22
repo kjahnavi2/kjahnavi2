@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Kamireddy Jahnavi Reddy
 
-🎓 B.Tech CSIT Student | 👩‍💻 Software Engineer (Primary) & Data Engineer (Secondary)  
+🎓 B.Tech CSIT Student (Class of 2027) | 👩‍💻 Software Engineer (Primary) & Data Engineer (Secondary)  
 🚀 Backend Systems • Scalable Applications • Data Pipelines  
 📍 Andhra Pradesh, India | 📧 jahnavireddy1821@gmail.com (Primary) | 📧 2300090020csitelge@gmail.com (Secondary)
 
