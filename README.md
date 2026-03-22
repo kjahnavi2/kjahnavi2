@@ -44,9 +44,7 @@ I specialize in building scalable backend architectures, REST APIs, and data-dri
 - Enabled 20+ users to monitor and reduce spending patterns  
 - Designed secure backend for financial data processing  
 
----
-
-##Data Engineering for AI:
+## Data Engineering and Analysis:
 
 ### 🔹 Real-Time Data Pipeline
 **Tech:** Python, Apache Kafka, Spark, SQL  
